@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'food/cli'
+Food::CLI.start
